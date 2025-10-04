@@ -2,7 +2,11 @@
 
 An intelligent tool for extracting and analyzing financial data from Excel files using Streamlit and Python.
 
+<img width="3840" height="1535" alt="image" src="https://github.com/user-attachments/assets/4b325250-9120-4aeb-a0ab-8b285d911806" />
+
+
 ## Features
+
 
 - 🚀 Automatic extraction of key financial metrics from Excel files
 - 📊 Intelligent pattern matching to find financial data in various formats

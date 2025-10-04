@@ -2,6 +2,9 @@
 
 An intelligent tool for extracting and analyzing financial data from Excel files using Streamlit and Python.
 
+<img width="1877" height="945" alt="image" src="https://github.com/user-attachments/assets/f37e653d-0c61-4717-a0a9-f6576b25e7cb" />
+
+
 <img width="3840" height="1535" alt="image" src="https://github.com/user-attachments/assets/4b325250-9120-4aeb-a0ab-8b285d911806" />
 
 
